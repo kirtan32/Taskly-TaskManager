@@ -5,9 +5,9 @@ A new Flutter project.
 To configure the project,
 * pull this project
 * run below commands
-*   flutter clean
-*   flutter pub get
-*   flutter run
+*   ## flutter clean
+*   ## flutter pub get
+*   ## flutter run
 
 ## Getting Started
 
