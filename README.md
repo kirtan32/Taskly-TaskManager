@@ -12,8 +12,9 @@ To configure the project,
   * flutter run
 
 ## Screenshots
-[Home Screen.pdf](https://github.com/user-attachments/files/18810731/Home.Screen.pdf)
-[Home Screen (1).pdf](https://github.com/user-attachments/files/18810730/Home.Screen.1.pdf)
+![2](https://github.com/user-attachments/assets/c47b43d1-d1cb-4c2b-a239-4a794d5d04c9)
+![1](https://github.com/user-attachments/assets/5eecb082-c10c-4ea9-a045-b67cb8125f47)
+
 
 
 A few resources to get you started if this is your first Flutter project:
