@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+To configure the project,
+* pull this project
+* run below commands
+*   flutter clean
+*   flutter pub get
+*   flutter run
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
