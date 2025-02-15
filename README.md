@@ -3,11 +3,11 @@
 A new Flutter project.
 
 To configure the project,
-* pull this project
-* run below commands
-*   ## flutter clean
-*   ## flutter pub get
-*   ## flutter run
+1. pull this project
+2. run below commands
+  * flutter clean
+  * flutter pub get
+  * flutter run
 
 ## Getting Started
 
