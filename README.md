@@ -12,9 +12,10 @@ To configure the project,
   * flutter run
 
 ## Screenshots
-![2](https://github.com/user-attachments/assets/c47b43d1-d1cb-4c2b-a239-4a794d5d04c9)
+
 ![1](https://github.com/user-attachments/assets/5eecb082-c10c-4ea9-a045-b67cb8125f47)
 
+![2](https://github.com/user-attachments/assets/c47b43d1-d1cb-4c2b-a239-4a794d5d04c9)
 
 
 A few resources to get you started if this is your first Flutter project:
