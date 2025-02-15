@@ -1,4 +1,4 @@
-# task_manager
+# Taskly - Task Manager
 
 A new Flutter project.
 
